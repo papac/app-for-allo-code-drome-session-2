@@ -11,3 +11,4 @@ package-lock.json
 config/.key
 mix-manifest.json
 .phpunit.result.cache
+.vscode
